@@ -14,7 +14,7 @@ require_once "koneksi.php";
       }
       $response=array(
                      'status' => 200,
-                     'message' =>'Success',
+                     'message' =>'Success euyyyyyy',
                      'data' => $data
                   );
       header('Content-Type: application/json');
